@@ -30,3 +30,9 @@ The results of the trained models, including accuracy, precision, recall, and ex
 [MIT](https://choosealicense.com/licenses/mit/) This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
+## output:
+Complete Executio of Project with output
+
+
+https://github.com/user-attachments/assets/b0a49293-d596-455b-ae93-01a687765401
+
